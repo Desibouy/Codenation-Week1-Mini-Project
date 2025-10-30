@@ -12,7 +12,7 @@
 }
 
 .header {
-  height: 20vh;
+  height: 25vh;
   width: 100%;
   /* border: 3px solid green; */
   display: flex;
@@ -59,17 +59,17 @@
 }
 
 .hero-section {
-  border: 5px solid salmon;
   color: #ffffff;
   background-color: #1c1c1c;
   font-weight: 200;
   /* height: 65vh; */
   display: flex;
   flex-direction: column;
+  /* border: 5px solid salmon; */
 }
 
 .hero-image {
-  height: 50vh;
+  height: 60vh;
   display: flex;
   justify-content: center;
 }
@@ -80,27 +80,28 @@
   justify-content: center;
   height: 15vh;
   font-size: 20px;
-  border: 3px solid red;
   justify-content: center;
+  padding: 0 250px 20px 250px;
+  /* border: 3px solid red; */
 }
 
 .second-section-teach {
   height: 100%;
-  border: 5px solid rgb(0, 146, 90);
   color: #f5b32f;
   background-color: #1c1c1c;
+  /* border: 5px solid rgb(0, 146, 90); */
 }
 
 .second-section-header {
   height: 10vh;
   font-size: 20px;
-  border: 5px solid orangered;
+  /* border: 5px solid orangered; */
 }
 .second-section-images {
-  height: 30vh;
+  height: 40vh;
   display: flex;
   justify-content: center;
-  border: 5px solid brown;
+  /* border: 5px solid brown; */
 }
 
 .second-section-paragraph {
@@ -111,23 +112,24 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding: 0 250px 20px 250px;
 }
 
 .third-section-study {
   height: 100%;
-  border: 5px solid blueviolet;
   color: #f5b32f;
   background-color: #1c1c1c;
+  /* border: 5px solid blueviolet; */
 }
 
 .third-section-header {
   height: 10vh;
   font-size: 20px;
-  border: 5px solid gainsboro;
+  /* border: 5px solid gainsboro; */
 }
 
 .third-section-image {
-  height: 50vh;
+  height: 60vh;
   display: flex;
   justify-content: center;
 }
@@ -140,20 +142,21 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border: 5px solid brown;
+  padding: 0 250px 20px 250px;
+  /* border: 5px solid brown; */
 }
 
 .fourth-section-reviews {
   height: 100%;
-  border: 5px solid blueviolet;
   color: #f5b32f;
   background-color: #1c1c1c;
+  /* border: 5px solid blueviolet; */
 }
 
 .fourth-section-header {
   height: 10vh;
   font-size: 20px;
-  border: 5px solid gainsboro;
+  /* border: 5px solid gainsboro; */
 }
 
 .fourth-section-review-row-1 {
@@ -184,7 +187,8 @@
   background-color: #1c1c1c;
   font-size: 20px;
   font-weight: 200;
-  border: 1px solid brown;
+  padding: 0 10px 0 10px;
+  /* border: 1px solid brown; */
 }
 
 /* .forth-section-paragraph {
