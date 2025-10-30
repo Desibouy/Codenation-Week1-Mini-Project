@@ -20,7 +20,7 @@
 }
 
 .top-navigation-bar {
-  padding: 10px 0 10px 0;
+  padding: 0px 0 10px 0;
   background-color: #f5b32f;
   /* font-size: 22px; */
   text-align: center;
@@ -203,7 +203,7 @@
 } */
 
 .footer-link {
-  padding: 10px 0 10px 0;
+  padding: 0 0 10px 0;
   width: 100%;
   background-color: #f5b32f;
   font-size: 22px;
